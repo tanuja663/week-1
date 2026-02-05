@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-* {
+ {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -119,4 +119,5 @@ footer {
     from { opacity: 0; transform: translateY(30px); }
     to { opacity: 1; transform: translateY(0); }
 }
+
 
